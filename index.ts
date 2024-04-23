@@ -1,6 +1,5 @@
 #! /usr/bin/env node
 import inquirer from 'inquirer';
-
 const todoList: string[] = [];
 
 async function displayTodoList() {
