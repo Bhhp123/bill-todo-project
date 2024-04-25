@@ -1,6 +1,6 @@
 {
-  "name": "@bilawalhussain/todo-list-poject",
-  "version": "1.0.1",
+  "name": "@bilawalhussain/todo-list-project",
+  "version": "1.0.2",
   "description": "todo_project",
   "main": "index.js",
   "type": "module",
