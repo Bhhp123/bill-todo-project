@@ -1,6 +1,9 @@
 #! /usr/bin/env node
 import inquirer from 'inquirer';
 const todoList = [];
+console.log('\n\t\x1b[42m-------------------------------------\x1b[0m');
+console.log('\t\x1b[36m\x1b[1m Bilawal Hussain\'s TODO LIST PROJECT \x1b[0m');
+console.log('\t\x1b[42m-------------------------------------\x1b[0m');
 async function displayTodoList() {
     console.log('\x1b[36mTodo List:\x1b[0m'); // Blue color
     todoList.forEach((item, index) => {
